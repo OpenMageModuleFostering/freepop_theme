@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/FreePOP_Theme",
+    "name": "openmage-module-fostering\/freepop_theme",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "FreePOP - Magento Theme",
     "authors": [
