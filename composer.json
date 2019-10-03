@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/FreePOP_Theme",
+    "name": "OpenMageModuleFostering\/FreePOP_Theme",
     "type": "magento-module",
     "license": "Open-Software-License-(OSL)",
     "homepage": "",
     "description": "FreePOP - Magento Theme",
     "authors": [
-    {
-        "name": "Mage-World",
-        "email": "haint@mage-word.com"
-    }
-],
+        {
+            "name": "Mage-World",
+            "email": "haint@mage-word.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
